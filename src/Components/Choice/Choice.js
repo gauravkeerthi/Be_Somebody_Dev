@@ -6,7 +6,7 @@ import { Button } from "@material-ui/core";
 const useStyles = makeStyles((theme) => ({
   root: {
     width: "100%",
-    maxWidth: "480px", // to mimic mobile app
+    maxWidth: "480px", // to mimic mobile app 
     backgroundColor: lightGreen
   },
   inline: {
