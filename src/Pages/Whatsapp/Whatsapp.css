@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.nadid {
+  color: red;
+  text-align: left;
+}
+
+.gavin {
+  color: green;
+  text-align: right;
+}
+
+.sceneText {
+  color: blue;
+  text-align: center;
+}
