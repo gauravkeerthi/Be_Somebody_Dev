@@ -3,13 +3,21 @@
 }
 
 .nadid {
-  color: red;
+  float: right;
   text-align: left;
+  max-width: 85%;
+  background: #e1ffc7;
+  border-radius: 5px 0px 5px 5px;
+  padding: 8px;
 }
 
 .gavin {
-  color: green;
-  text-align: right;
+  float: left;
+  text-align: left;
+  max-width: 85%;
+  background: #fff;
+  border-radius: 0px 5px 5px 5px;
+  padding: 8px;
 }
 
 .sceneText {
