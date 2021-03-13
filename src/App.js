@@ -17,14 +17,10 @@ function App() {
   return (
     <ThemeProvider theme={outerTheme}>
       <Router>
+        <Menu />
         <Switch>
           <Route exact path="/">
-            <div>
               <StoryBoard />
-            </div>
-            <div>
-              <Menu />
-            </div>
           </Route>
         </Switch>
       </Router>
