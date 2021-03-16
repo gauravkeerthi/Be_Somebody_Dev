@@ -1,6 +1,6 @@
 import "../styles.css";
 import { Component } from "react";
-import StoryBoard from "../Components/StoryBoard/StoryBoard";
+import StoryBoard from "../Components/Boards/StoryBoard/StoryBoard";
 
 class App extends Component {
   render() {

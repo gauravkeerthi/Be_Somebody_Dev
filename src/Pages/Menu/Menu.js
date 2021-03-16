@@ -21,7 +21,6 @@ import Typography from "@material-ui/core/Typography";
 import ListItemAvatar from "@material-ui/core/ListItemAvatar";
 import Avatar from "@material-ui/core/Avatar";
 import { makeStyles, useTheme } from "@material-ui/core/styles";
-import Whatsapp from "../Whatsapp/Whatsapp";
 
 const drawerWidth = 300;
 
